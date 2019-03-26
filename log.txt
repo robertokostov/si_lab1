@@ -1,0 +1,24 @@
+commit 6a007fd797cbb9faf7a87f52b824958e4694b76c
+Merge: 1960987 a677872
+Author: rkostov <robertokostov3@gmail.com>
+Date:   Tue Mar 26 15:15:08 2019 +0100
+
+    Merge branch 'master' of https://github.com/robertokostov/si_lab1
+
+commit a677872b32ea2447d6dcbb1fed30760b7cfc61ea
+Author: Roberto Kostov <robertokostov@yahoo.com>
+Date:   Tue Mar 26 15:06:57 2019 +0100
+
+    Initial commit
+
+commit 19609872c3f90314b239150a469e4a070797cb70
+Author: rkostov <robertokostov3@gmail.com>
+Date:   Tue Mar 26 15:04:29 2019 +0100
+
+    Modify l1.txt
+
+commit b0da7e310e49dfc58054c176f32e09e5beee3c9a
+Author: rkostov <robertokostov3@gmail.com>
+Date:   Tue Mar 26 15:01:13 2019 +0100
+
+    Initial commit
